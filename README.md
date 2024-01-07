@@ -1,5 +1,6 @@
 # Context-Menu-Windows
 
+Win+ R 👉 regedit
 
 Registry Path:
 Computer\HKEY_CURRENT_USER\SOFTWARE\CLASSES\CLSID
