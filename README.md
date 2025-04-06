@@ -15,3 +15,9 @@ Default SHOULD BE BLANK😂
 Windows Security Issue Problem Fix.
 Pwoershell
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
+
+
+
+Try disabling Fast Startup in Windows. Let me find the instructions.
+
+Edit: In Windows, press Win+R > powercfg.cpl > OK > Choose what the power buttons do > Change settings that are currently unavailable, then uncheck "Turn on fast startup". Save changes and restart (not shutdown) the PC.
